@@ -6,3 +6,7 @@ surface_area = width*height*2 + length*width*2 + height*length*2#the calculation
 Areaofthefloor = length*width#the calculation for the area of the floor
 amountofpaint = height*length*2 + height*width*2#the calculation to find the amount of paint needed
 volume = length*width*height#the calculation to find the volume
+print("the surface area is " + str(surface_area))#telling the person what the surface area is from the information he gave of the dimensions of the room
+print("the area of the floor is " + str(Areaofthefloor))#telling the person what the area of the floor is from the information he gave of the dimensions of the room
+print("the amount of paint needed is " + str(amountofpaint))#telling the person what the amount of paint needed is from the information he gave of the dimensions of the room
+print("the volume of the room is " + str(volume))#telling the person what the volume is from the information he gave of the dimensions of the room
